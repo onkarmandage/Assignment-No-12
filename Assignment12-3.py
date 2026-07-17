@@ -1,0 +1,6 @@
+Num1=int(input("Enter the first number "))
+Num2=int(input("Enter the sec number "))
+print("Addition is ",Num1+Num2)
+print("Subtraction is ",Num1-Num2)
+print("Multiplecation is ",Num1*Num2)
+print("Division is ",Num1/Num2)
